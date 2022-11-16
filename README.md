@@ -1,6 +1,8 @@
 # encoder
 This software handles data collection and processing for The Weather Channel's IntelliStar 2 software using a mix of TWC's v1, v2, and v3 APIs. 
 
+**This project is open-sourced under the MIT license.**
+
 To use this encoder you will need to have an Intellistar 2 unit ``jr or xd``
 
 # Requirements
