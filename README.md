@@ -1,5 +1,3 @@
- # Encoder is made developed & possible by mewtek32, Floppaa, and Goldblaze, The 5D Crew, OpenTelecom 2D Group
-
 # encoder
 This software handles data collection and processing for The Weather Channel's IntelliStar 2 software using a mix of TWC's v1, v2, and v3 APIs. 
 
@@ -19,3 +17,5 @@ Install the requirements in ``requirements.txt``
 ``py -3 -m pip install -r requirements.txt``
 
 Drop your IntelliStar 2's ``MachineProductCfg.xml`` file into the root of the directory of the encoder, then run ``main.py``.
+
+# This project is made possible by mewtek32, Floppaa, Goldblaze, Austin, The 5D Crew, and OpenTelecom 2D Group. If you enjoy this project, say thank you.
