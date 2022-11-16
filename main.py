@@ -14,8 +14,8 @@ CurrentConditions: Every 5 minutes
 Daily Forecasts, Hourlies, etc: 60 minutes
 Alerts: 5 minutes
 """
-l.info("Starting i2RecordCollector")
-l.info("Developed by mewtek32, Floppaa, and Goldblaze")
+l.info("Starting encoder")
+l.info("Developed by mewtek, Floppaa, Goldblaze, The 5D Crew, and OpenTelecom 2D")
 
 async def grabAlertsLoop():
     while True:
