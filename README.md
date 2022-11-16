@@ -1,4 +1,4 @@
- # Encoder is made developed A& possible by mewtek32, Floppaa, and Goldblaze, The 5D Crew, OpenTelecom 2D Group
+ # Encoder is made developed & possible by mewtek32, Floppaa, and Goldblaze, The 5D Crew, OpenTelecom 2D Group
 
 # encoder
 This software handles data collection and processing for The Weather Channel's IntelliStar 2 software using a mix of TWC's v1, v2, and v3 APIs. 
