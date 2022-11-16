@@ -9,7 +9,7 @@ To use this encoder you will need to have an Intellistar 2 unit ``jr,xd,hd``, **
 * Firewall on the stock I2 image fixed to allow incoming connections from ``224.1.1.77`` on ports ``7787`` and ``7788``
 * [Python 3.8.0](https://www.python.org/downloads/release/python-380/)
 
-# Usage instructions
+# Usage instructions (Windows 7 stars jr/xd)
 [Download a release](https://github.com/the5dcrew/i2MessageEncoder-Rewrite/releases) for the most stable version, or clone the repository.
 
 ``git clone https://github.com/the5dcrew/i2MessageEncoder-Rewrite``
