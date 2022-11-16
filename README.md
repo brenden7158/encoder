@@ -18,4 +18,4 @@ Install the requirements in ``requirements.txt``
 
 Drop your IntelliStar 2's ``MachineProductCfg.xml`` file into the root of the directory of the encoder, then run ``main.py``.
 
-# This project is made possible by mewtek32, Floppaa, Goldblaze, Austin, The 5D Crew, and OpenTelecom 2D Group. If you enjoy this project, say thank you to them!
+# This project is made possible by [mewtek](https://github.com/mewtek), [Floppaa](https://github.com/Floppa-2), [Goldblaze](https://github.com/buffbears), [The 5D Crew](https://github.com/the5dcrew), and [OpenTelecom 2D](https://github.com/OpenTelecom2D). If you enjoy this project, say thank you to them!
