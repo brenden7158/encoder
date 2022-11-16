@@ -18,4 +18,4 @@ Install the requirements in ``requirements.txt``
 
 Drop your IntelliStar 2's ``MachineProductCfg.xml`` file into the root of the directory of the encoder, then run ``main.py``.
 
-**Encoder is made possible by the OpenTelecom 2D Group 
+**Encoder is made possible by the OpenTelecom 2D Group**
