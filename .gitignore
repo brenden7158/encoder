@@ -1,0 +1,13 @@
+# Python Virtual Environment
+venv/
+
+# MachineProductCfg
+MachineProductCfg.xml
+
+# Ignore tiles
+tiles/*
+
+# Python compiled files
+__pycache__/
+
+.temp/
