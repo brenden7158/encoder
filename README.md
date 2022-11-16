@@ -10,12 +10,14 @@ This software handles data collection and processing for The Weather Channel's I
 
 ``git clone https://github.com/the5dcrew/i2MessageEncoder-Rewrite``
 
-*(If downloading this as a zip, extract to the directory of your choosing.)*
+Install the requirements ``py -3 -m pip install -r requirements.txt``
 
-Install the requirements in ``requirements.txt``
+Drop your ``MachineProductCfg.xml`` file into the root of the directory of the encoder
 
-``py -3 -m pip install -r requirements.txt``
+Open Powershell and run mkdir ``.temp`` and move the ``msgId.txt`` from the root of the encoder to ``.temp``
 
-Drop your IntelliStar 2's ``MachineProductCfg.xml`` file into the root of the directory of the encoder, then run ``main.py``.
+Inside of the ``.temp`` folder, make a folder named ``tiles``
+
+Run ``main.py`` and profit.
 
 # This project is made possible by [mewtek](https://github.com/mewtek), [Floppaa](https://github.com/Floppa-2), [Goldblaze](https://github.com/buffbears), [The 5D Crew](https://github.com/the5dcrew), and [OpenTelecom 2D](https://github.com/OpenTelecom2D). If you enjoy this project, say thank you to them!
