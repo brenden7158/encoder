@@ -1,4 +1,4 @@
-# i2RecordCollector
+# encoder
 This software handles data collection and processing for The Weather Channel's IntelliStar 2 software using a mix of TWC's v1, v2, and v3 APIs. 
 
 # Requirements
@@ -16,4 +16,6 @@ Install the requirements in ``requirements.txt``
 
 ``py -3 -m pip install -r requirements.txt``
 
-Drop your IntelliStar 2's ``MachineProductCfg.xml`` file into the root of the directory of the encoder, then run ``main.py``. 
+Drop your IntelliStar 2's ``MachineProductCfg.xml`` file into the root of the directory of the encoder, then run ``main.py``.
+
+# This project is made possible by [mewtek](https://github.com/mewtek), [Floppaa](https://github.com/Floppa-2), [Goldblaze](https://github.com/buffbears), [The 5D Crew](https://github.com/the5dcrew), and [OpenTelecom 2D](https://github.com/OpenTelecom2D). If you enjoy this project, say thank you to them!
