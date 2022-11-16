@@ -3,7 +3,7 @@
 
 This software handles data collection and processing for The Weather Channel's IntelliStar 2 software using a mix of TWC's v1, v2, and v3 APIs. 
 
-To use this encoder you will need to have an Intellistar 2 unit ``jr,xd,hd``
+To use this encoder you will need to have an Intellistar 2 unit ``jr,xd,hd``, note that the HD uses Windows XP so the setup may be a bit diffrent
 
 # Requirements
 * Firewall on the stock I2 image fixed to allow incoming connections from ``224.1.1.77`` on ports ``7787`` and ``7788``
