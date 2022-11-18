@@ -1,5 +1,6 @@
 # encoder
 **This project is open-sourced under the MIT license and is provided as-is.**
+**This project is made possible by [mewtek](https://github.com/mewtek), [Floppaa](https://github.com/Floppa-2), [Goldblaze](https://github.com/buffbears), [The 5D Crew](https://github.com/the5dcrew), and [OpenTelecom 2D](https://github.com/OpenTelecom2D).**
 
 This software handles data collection and processing for The Weather Channel's IntelliStar 2 software using a mix of TWC's v1, v2, and v3 APIs. 
 
@@ -23,5 +24,3 @@ Open Powershell and run mkdir ``.temp`` and move the ``msgId.txt`` from the root
 Inside of the ``.temp`` folder, make a folder named ``tiles``
 
 Run ``main.py`` and profit.
-
-# This project is made possible by [mewtek](https://github.com/mewtek), [Floppaa](https://github.com/Floppa-2), [Goldblaze](https://github.com/buffbears), [The 5D Crew](https://github.com/the5dcrew), and [OpenTelecom 2D](https://github.com/OpenTelecom2D). If you enjoy this project, say thank you to them!
